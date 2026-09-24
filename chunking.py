@@ -1,6 +1,6 @@
 import re
 
-def split_into_blocks(text):se
+def split_into_blocks(text):
     """
     Splits content into:
     - table blocks
