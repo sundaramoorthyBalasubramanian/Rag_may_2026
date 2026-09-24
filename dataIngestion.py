@@ -3,7 +3,7 @@ from pdf2image import convert_from_path
 import os
 import easyocr
 import numpy as np
-
+ww
 from docling.document_converter import DocumentConverter, PdfFormatOption 
 from docling.datamodel.pipeline_options import PdfPipelineOptions, EasyOcrOptions
 from docling.datamodel.base_models import InputFormat
